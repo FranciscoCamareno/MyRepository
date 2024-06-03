@@ -1,0 +1,56 @@
+body{
+    background-image: url(img/volcanpoas.jpg);
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.923);
+    
+}
+
+header{
+    margin-left: 32%;
+    margin-right: 20%;
+}
+
+main{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+span{
+    color: blue;
+}
+
+table, th, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    margin-left: 30%;
+}
+
+.sanjose_img{
+    width: 50px;
+}
+
+.alajuela_img{
+    width: 50px;
+}
+
+.cartago_img{
+    width: 50px;
+}
+
+article{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    margin-left: 5%;
+    margin-right: 5%;
+}
