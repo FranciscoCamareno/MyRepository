@@ -1,0 +1,17 @@
+.card_img{
+    width: 250px;
+    border-radius: 50%;
+}
+
+.card_div{
+    text-align: center;
+}
+
+.hobbies_div{
+    margin-left: 42%;
+}
+
+.contact_div{
+    text-align: center;
+}
+
