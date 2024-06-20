@@ -1,0 +1,38 @@
+body{
+    font-family: "Inter", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+a, h3{
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2{
+    font-size: 20px;
+    color: gray;
+}
+
+p{
+    font-size: 25px;
+}
+
+.btn-text{
+    font-family: "Inter", "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+}
+
+.insert-text::placeholder, .insert-mail::placeholder, .insert-name::placeholder {
+    font-family:"Inter", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+input{
+    font-family: "Inter", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 17px;
+}
